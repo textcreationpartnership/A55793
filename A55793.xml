@@ -1,0 +1,488 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new way of conference being a dialogue, betweene Patrick Pastgrace a Papist, and Peter Pleadwell a Protestant. Fild with mirth, and varnisht with modesty. By Laurance Price.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55793</idno>
+            <idno type="STC">Wing P3380</idno>
+            <idno type="STC">ESTC R219509</idno>
+            <idno type="EEBO-CITATION">99830976</idno>
+            <idno type="PROQUEST">99830976</idno>
+            <idno type="VID">35438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35438)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2095:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new way of conference being a dialogue, betweene Patrick Pastgrace a Papist, and Peter Pleadwell a Protestant. Fild with mirth, and varnisht with modesty. By Laurance Price.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>[2], 5-14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and are to bee sold by Richard Burton, at the Horse-shooe, in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page = A2; text ends on A7v.</note>
+                  <note>Copy has stained pages; closely trimmed at foot with slight loss of print.</note>
+                  <note>Reproduction of the original in the Worcester College Library, Oxford University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35438:1"/>
+            <!-- PDF PAGE 45 -->
+            <pb facs="tcp:35438:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <p>A New way of Conference, Being a DIALOGVE, Betweene PATRICK PASTGRACE A PAPIST, And PETER PLEADWELL A PROTESTANT.</p>
+            <p>Fild with Mirth, and varniſht with Modeſty.</p>
+            <p>By <hi>Laurance Price.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed and are to bee ſold by <hi>Richard Burton,</hi> at the <hi>Horſe-ſhooe,</hi> in <hi>Smithfield,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:35438:2"/>
+            <!-- PDF PAGE 46 -->
+            <pb n="5" facs="tcp:35438:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <head>A Dialogue betwixt a Papiſt, and a Proteſtant.</head>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hat my old acquaintance <hi>Pa<g ref="char:EOLhyphen"/>trick,</hi> how fares your body? you look like one that came lately out of purgatory, what hath your holy Dame Pope <hi>Ione</hi> hanted your Ghoſt?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Why</hi> Peter, <hi>I ſée you will never leave your old knavery while your tongue will wag, and that I thinke was made of <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, I'le tell thée, tis as eaſy a thing to ſée thee with<g ref="char:EOLhyphen"/>out a gybe in thy mouth, as tis to ſee a Tinker without a trull at his héeles.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Why doſt thou thinke I mock thee?</p>
+            </sp>
+            <pb n="6" facs="tcp:35438:3"/>
+            <!-- PDF PAGE 47 -->
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>
+                  <hi>I cannot tell what you call mocking, but if the lair word that thou ſpokeſt of ſhould come to his holineſſe eare, they would curſe thée by Bell, Booke and Candell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Let them curſe mee and ſpare not for their curſes will flee no further then their eyes can ſee.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Art thou not aſham'd to ſcandalize ſuch a worthy company of reverend Prelats, holy Fryers, re<g ref="char:EOLhyphen"/>ligious Nuns, and their followers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant,</speaker>
+               <p>Hey hey, what have you got a Pope in your belly too? <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> this is pretty ſport indeed, but i'le tell thee one thing for thy comfort <hi>Patrick,</hi> thou muſt either in plaine tearmes forſake the Pope, or ſhake hands with the hangman.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Doſt heare me</hi> Peter, <hi>if than didſt know in much as a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y doe know, thou wouldſt not refuſe to goe twenty miles on thy bare feets to heare Maſſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Fy, fy, fy, prethee ſtand further from mee, thy cloathes ſtinkes of knavery: thy body of baudery, and thy breath of popery.</p>
+            </sp>
+            <pb n="7" facs="tcp:35438:3"/>
+            <!-- PDF PAGE 47 -->
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>What, what, whats the newes now? are you in your rime doggrell <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> if I catch you a rimeing i'le rime with you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Begin of thou dar'ſt.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <l>
+                  <hi>To read our Ledies ſalter,</hi>
+               </l>
+               <l>
+                  <hi>And bee waſht in holy water,</hi>
+               </l>
+               <l>
+                  <hi>Is that I deſire.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <l>If thou hadſt thy deſart,</l>
+               <l>Thou shoulds bee tyed in a Cart,</l>
+               <l>Or bee burnt in the fier.</l>
+               <l>How like you of that friend <hi>patrick,</hi>
+               </l>
+               <l>Have you any more ſtomack to rime.</l>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Yes faith i'le have to ther od rime, if it coſt mee a grote.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Well to't then <hi>patrick</hi> begin againe.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <l>
+                  <hi>The Popes Bulls and Croſſes</hi>
+               </l>
+               <l>
+                  <hi>Will pay all the loſſes,</hi>
+               </l>
+               <l>
+                  <hi>That in England have been.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <l>Not before ſuch as thee,</l>
+               <l>And thy curſt companie,</l>
+               <pb n="8" facs="tcp:35438:4"/>
+               <!-- PDF PAGE 48 -->
+               <l>At the Gallowes bee ſeene.</l>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Fy</hi> Peter, <hi>now thou hyt ſhame too deepe, yet i'le try the other veny if thou canſt worſt me at the next bowt then; ſpare me not good</hi> Peter.</p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>VVhy then pleaſe your ſelfe, and wee are all pleaſed, begin once more.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſts.</speaker>
+               <l>
+                  <hi>Auy Maries, and Creeds,</hi>
+               </l>
+               <l>
+                  <hi>Crucifixes and Beads,</hi>
+               </l>
+               <l>
+                  <hi>I will never forſake them.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Proteſtants.</speaker>
+               <l>No more will your Sex,</l>
+               <l>That doth England ſo vex,</l>
+               <l>Till the hangman do take them.</l>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Come, come, I ſée thou art too hard for me at rim<g ref="char:EOLhyphen"/>ing and therefore lets fal to our former diſcourſe againe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>I ſay ſtill as <hi>I</hi> ſaid at firſt; pleaſe one, and pleaſe all</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Nao but</hi> Peter, <hi>as I take thee for a man of diſ<g ref="char:EOLhyphen"/>cretion, I alſo know thee to hée a newes-monger, therefore prethée tell me ſome newes.</hi>
+               </p>
+            </sp>
+            <pb n="9" facs="tcp:35438:4"/>
+            <!-- PDF PAGE 48 -->
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>VVhy <hi>Patrick,</hi> did <hi>I</hi> not ſee you yeſterday in divers places of the City, as namely did <hi>I</hi> not ſee you in the morning in Cheapſide, amongſt the Gold-ſmiths, at noone in the Exchange amongſt the Gallants, at foure a Clock amongſt the Brokers in long Lane, and at night in a baudy ouſe, and would you learne newes of me?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt</speaker>
+               <p>
+                  <hi>Why Peter, ſhou know'ſt I hate a Band worſe then I hate a Turke.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>But <hi>patrick, I</hi> thinke thou loveſt a whore better then thou loveſt a Chriſtian, and therefore doe thou tell the newes.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Muſt I needs tell the newes. why then pray thee Peter heare me, and I will tell thee ſuch newes which hath even made me ſtarke ſtaring-borne mad.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Prethee <hi>patrick</hi> ſpeake on, for ſuch newes <hi>I</hi> long to heare.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Why then i'le tell thee Peter, as a friend, yeſter-day a little while after thou hadſt ſeene mee, it
+<pb n="10" facs="tcp:35438:5"/>
+                     <!-- PDF PAGE 49 -->was my fortune to meets with one ſinging, who with a loud voyce chanted forth in the laſt of thin moneth, ſuch a mornefull dity as made the very haire of my head ſtand an end to heare him, I would my wife</hi> Beſſe <hi>had heene there for hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſake.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>VVhat would shee have done?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Shée would have either pincht him by the eares, ſcracht him by the f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, or pick out his eyes, and had it not beene for feare of the Law, I would have ſtab'd him with my knife.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Why then, <hi>I</hi> perceive you ſtand in feare of the hangman, but what was the ſong that did ſo much moleſt thy mind?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Faith I cannot well remember the beginning out, but the concuſion was this</hi>
+               </p>
+               <l>Now let the Maſſe Prieſts be jogging together,</l>
+               <l>To Rome or to Tyburne let them chuſe whether.</l>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>And art thou angry with the ballet ſinger for ſinging that ſong.</p>
+            </sp>
+            <pb n="11" facs="tcp:35438:5"/>
+            <!-- PDF PAGE 49 -->
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>I, mighty angry.</p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>
+                  <hi>Shall I tell thée</hi> Patrick, <hi>I thinke it to bee the beſt Song, and 'tis like to bee the trueſt Song that was ſong in London ſtreets this twiſe twelve moneths.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Shew mee a reaſon <hi>Peter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Why this is the reaſon, our Nation have beene ſo groſely abuſed by Maſſe Prieſts, Jeſuits and Recuſants, and ſuch like troubleſome perſons which have cauſed ſtrangers to hate us, neighbours to laugh at us, and our owne friends to fight with us.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Are friends ſo fooliſh as to fight one with the other.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>No, but that ſuch knaves as thou art are willing to ſet them together by the eares.</p>
+            </sp>
+            <pb n="12" facs="tcp:35438:6"/>
+            <!-- PDF PAGE 50 -->
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>pray thee good Peter, and friend, tell me with<g ref="char:EOLhyphen"/>out jeſting how this may bee, and if any fault remaines in mée, I will doe the beſt indeavor to amend it, and I truſt that all my friends and ac<g ref="char:EOLhyphen"/>quaintance will doe the like, and run hand and hand with the proverb, every one mend a little.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Since you are in ſuch a good minde <hi>I</hi> will not put you by: but will tell you my mind: this <hi>I</hi> am ſure of, that all that are of your ſex, and will not be reform'd, muſt depart out of our Kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>What quite out of England! what if we depart the City, and live thirty miles from it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>That will not ſerve your turne, our Kings Lawes will meete with you.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Why then <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y fly into Yorkſhire, and he frée from danger.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Nay then you are like to the fiſh w<hi rend="sup">ch</hi> leapt out of the fryingpan into the fire, for there the bony Scots will have you by the loggs: and beſides all this the Papiſts have playd
+<pb n="13" facs="tcp:35438:6"/>
+                  <!-- PDF PAGE 50 -->ſuch prankes in England of late, which puts us in mind of eighty eight, the yeare before when there came ſuch an invincible navy of Ships, that they appeared like a mighty Foreſt of trees upon the ſea, wherein they brought hookes to hang men up by the joules, Knives to out our throats, and whips of ſteel to whip <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> death.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Why theſe were not Engliſh Papiſts, they came from Spayn.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>For any thing <hi>I</hi> know, the Engliſh Papiſts may be ful as bad if not worſe, tha<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>Spaniards;</hi> further more in the happy and peacefull raigne of our dread Soveraigne Lord King <hi>Iames,</hi> when his Majeſty had cal'd an aſſem<g ref="char:EOLhyphen"/>bly together of the chiefeſt noble Lords, and peers of our Kingdome, O what a damnable plot was there layd for the de<g ref="char:EOLhyphen"/>ſtruction, and overthrow both of our King and Kingdome?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Why theſe were ſent from Rome</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>
+                  <hi>I</hi> thinke they were ſent from Hell, for <hi>I</hi> am ſure they brought fire-workes with them
+<pb n="14" facs="tcp:35438:7"/>
+                  <!-- PDF PAGE 51 -->but to conclude in a word, I'de wiſh thee to be as good as thy word, either to amend thy life or elſe depart England.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>Why what courſe would you have me to take?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Proteſtant.</speaker>
+               <p>Firſt <hi>I</hi> would have <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erve God in every thing, and next obe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Charles</hi> our gracious King, ſee that thou do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t thy ne<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hbour love, and God will of thy works aprove.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>
+                  <hi>In my heart I am over joyed with thy Chriſtian like councell, and I thinke a happy time that we met together, and thus much more I tell 'thee thou ſhalt ſee a ſpeedy reformation in me, if God ſay amen, ſo for this time farwell good friend.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35438:7"/>
+            <!-- PDF PAGE 51 -->
+         </div>
+      </body>
+   </text>
+</TEI>
